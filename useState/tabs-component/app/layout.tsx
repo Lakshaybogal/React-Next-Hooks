@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Toggle Button',
+  title: 'Tabs Component',
   description: 'Create by Lakshay Bogal',
 }
 
