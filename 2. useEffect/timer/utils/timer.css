@@ -1,0 +1,29 @@
+* {
+  background: rgb(17, 24, 39);
+  color: whitesmoke;
+  box-sizing: border-box;
+
+}
+
+input {
+  color: rgb(17, 24, 39);
+  background-color: whitesmoke;
+  padding: 0.2rem 1rem;
+  border-radius: 10px;
+  margin: 0.5rem;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.btn {
+  background:whitesmoke;
+  color: rgb(17, 24, 39) ;
+}
