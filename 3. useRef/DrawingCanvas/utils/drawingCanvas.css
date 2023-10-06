@@ -1,0 +1,11 @@
+* {
+    background: rgb(17, 24, 39);
+    color: whitesmoke;
+    box-sizing: border-box;
+  
+  }
+  .canvas{
+    border: 1px solid whitesmoke;
+    
+    background: white;
+  }
