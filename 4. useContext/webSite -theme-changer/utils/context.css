@@ -1,0 +1,11 @@
+.LIGHT {
+    background-color: whitesmoke;
+    color: rgb(17, 24, 39);
+    height: 100vh;
+}
+
+.DARK {
+    background-color: rgb(17, 24, 39);
+    color: whitesmoke;
+    height: 100vh;
+}
